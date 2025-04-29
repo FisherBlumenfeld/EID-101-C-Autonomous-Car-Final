@@ -1,7 +1,0 @@
-SensorArray	KEYWORD1
-begin	KEYWORD2
-update	KEYWORD2
-moveForward	KEYWORD2
-turnLeft	KEYWORD2
-turnRight	KEYWORD2
-halt	KEYWORD2
